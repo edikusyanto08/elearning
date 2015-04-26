@@ -32,3 +32,5 @@ SEBELUM MENJALANKAN WEB ELEARNING INI ADA BEBERAPA KONFIGURASI YANG HARUS DILAKU
 	1.username = siswa, password= siswa
 
 Terima Kasih telah donasi, kami akan terus berkarya untuk kebaikan bangsa..
+
+test git
