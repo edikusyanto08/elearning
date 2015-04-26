@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------------------------------
+ANDA MENDOWNLOAD FILE INI DI www.irvan-bm.blogspot.com versi Donasi
+--------------------------------------------------------------------------------------------------------
+PERSIAPAN
+-SIAPKAN XAMPP VERSI 1.6.4 
+-AKTIFKAN MODUL REWWRITENYA (KALAU BINGUNG CARI DI GOOGLE DENGAN KATA KUNCI CARA MENGAKTIFKAN REWRITE DI XAMPP)
+
+SEBELUM MENJALANKAN WEB ELEARNING INI ADA BEBERAPA KONFIGURASI YANG HARUS DILAKUKAN
+1. Buat database baru dengan nama terserah anda ( saya asumsikan buat database elearningsekolah )
+
+2. Import database yang saya sertakan pada folder database
+
+3. Pindahkan folder elearningsekolah ke htdocs anda lalu coba di akses 
+
+4. jika belum konek Buka file koneksi.php yang ada pada folder configurasi
+
+5. Sesuaikan user dan password mysql anda, serta nama database yang anda buat
+
+6. LOGIN SEBAGAIN ADMINISTRATOR
+	http://localhost/elearningsekolah/administrator/
+	ACCOUNT :
+	1. username = admin, password= admin
+   -------------------------------------
+   LOGIN SEBAGAI PENGAJAR
+	http://localhost/elearningsekolah/administrator/
+	ACCOUNT : 
+	1. username = guru, password= guru
+ -------------------------------------
+  LOGIN SEBAGAIN SISWA
+ 	http://localhost/elearningsekolah/
+	ACCOUNT :
+	1.username = siswa, password= siswa
+
+Terima Kasih telah donasi, kami akan terus berkarya untuk kebaikan bangsa..
